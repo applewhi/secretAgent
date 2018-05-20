@@ -1,0 +1,39 @@
+html {
+  font-size: 12px;
+}
+body {
+  background-color: black;
+  color: seashell;
+}
+
+.header {
+  display: flex;
+  height: 64px;
+  width: 100%;
+  align-items: center;
+}
+
+.header img {
+    height: 1.25rem;
+    margin: 5px;
+    margin-left: 150px;
+    width: auto;
+}
+
+.banner {
+  background-image: url("./resources/img/moto.jpeg");
+  background-size: cover;
+}
+
+/*BANNER SECTION*/
+
+.background-bike {
+  }
+.new-arrival {
+
+}
+
+nav {
+  background-color: red;
+
+}
