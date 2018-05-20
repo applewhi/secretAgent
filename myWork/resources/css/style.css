@@ -21,8 +21,9 @@ body {
 }
 
 .banner {
-  background-image: url("./resources/img/moto.jpeg");
+  background-image: url("../img/moto.jpeg");
   background-size: cover;
+  height: 300px;
 }
 
 /*BANNER SECTION*/
@@ -30,7 +31,11 @@ body {
 .background-bike {
   }
 .new-arrival {
-
+  background-color: black;
+  display: flex;
+  width; 70px;
+  margin-top: 75px;
+  position: relative;
 }
 
 nav {
