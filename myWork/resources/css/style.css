@@ -8,37 +8,41 @@ body {
 
 .header {
   display: flex;
-  height: 64px;
+  height: 5rem;
   width: 100%;
   align-items: center;
 }
 
 .header img {
     height: 1.25rem;
-    margin: 5px;
     margin-left: 150px;
-    width: auto;
+    margin-right: 1.25rem;
 }
 
 .banner {
+  display: flex;
   background-image: url("../img/moto.jpeg");
   background-size: cover;
   height: 300px;
-}
 
+}
 /*BANNER SECTION*/
 
 .background-bike {
+
   }
+
 .new-arrival {
   background-color: black;
-  display: flex;
-  width; 70px;
+  height: 300px
+  width: 500px;
   margin-top: 75px;
   position: relative;
 }
 
 nav {
+  align-content: center;
+  text-align: center;
   background-color: red;
-
+  height: 4rem;
 }
